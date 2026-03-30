@@ -1,0 +1,15 @@
+---
+title: "Introduction"
+volume: 5
+---
+
+# Introduction
+
+This volume is a companion reference to the four preceding volumes of the Laws of the Spirit (LotS) series. Volumes 1 through 4 draw on a wide range of scholars, theologians, scientists, spiritual directors, ministry practitioners, scripture figures, and personal witnesses in the course of developing and testing a framework for understanding how the spiritual world operates according to regular, discoverable laws. Volume 5 collects those sources in one place, organizes them alphabetically within five categories, and provides a full Turabian-format bibliographic citation along with a structured annotation for each entry. 
+It also includes what are called Formative Documents in the first volumes. These are documents that work alongside the volume’s investigation; three companion papers explore the formation dimensions of the laws described here. The heart paper (Heart Formation Theology, or HFT) maps the Affective Taxonomy of Krathwohl, Bloom, and Masia to the Parable of the Sower and proposes trust in scripture as the right affective test case for heart formation — the tractable, focused target that lets us begin measuring what has previously been only observed. The soul and spirit paper (Soul and Spirit Taxonomies, or SST) proposes five-stage developmental taxonomies for both the soul and the spirit, each with explicit connections back to the structural laws in this volume. The third paper (A Model of Spiritual Formation for Individuals and Small Groups, or MSFIG) provides the most comprehensive synthesis, integrating all three inner taxonomies with Old Testament, New Testament, and Pauline formation theology, and extending them to individual, small-group, and church-wide application. These papers do not replace this investigation — they run alongside it. The LotS asks how the spiritual laws work; the Formation Documents ask what it looks like, from the inside, to be formed by them. The notation used is
+HFT - Heart Formation Theology
+SST - Soul and Spirit Taxonomies
+MSFIG - A Model of Spiritual Formation for Individuals and Small Groups
+
+The annotation format follows the structure used in my academic work: an Author section identifying who the person is or was; a Summary section describing the relevant work, idea, or contribution; and an Application section explaining specifically how this person’s work connects to the LotS project, with volume and exploration references where applicable. The goal is not an exhaustive academic literature review but a working reference document — one that a future researcher, a family member continuing this exploration, could use to locate and evaluate the sources that shaped this project. 
+Scripture figures are included in Part IV not as conventional bibliography entries but as case study references, since the LotS volumes consistently treat them as data points and illustrative cases. Ministry tools with institutional rather than single-author origins are gathered in Part III. The LotS project’s original workshop community members are collected in Part V.

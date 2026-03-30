@@ -1,0 +1,155 @@
+site_name: "Intentional Journey of the Heart"
+site_description: "Notes to My Kids (and Grandkids): On My Personal Exploration of the Laws of God's Love — by John G. Tittle"
+site_author: "John G. Tittle"
+site_url: "https://Epithetical.github.io/intentional-journey-of-the-heart/"
+repo_url: "https://github.com/Epithetical/intentional-journey-of-the-heart"
+repo_name: "Epithetical/intentional-journey-of-the-heart"
+copyright: "Copyright &copy; John G. Tittle — Licensed under CC BY-NC-SA 4.0"
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: deep purple
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: deep purple
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: Source Serif Pro
+    code: Roboto Mono
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.top
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - toc.follow
+  icon:
+    repo: fontawesome/brands/github
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.mark
+  - pymdownx.critic
+  - pymdownx.keys
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - tables
+  - footnotes
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Epithetical/intentional-journey-of-the-heart
+
+nav:
+  - Home: index.md
+  - Reading Guide: reading-guide.md
+  - About:
+    - about/author.md
+    - about/project-history.md
+    - about/how-to-use-this-site.md
+  - Introduction:
+    - introduction/index.md
+    - "What I Am Trying to Do": introduction/what-i-am-trying-to-do.md
+    - "Overview of the Work": introduction/overview-of-the-work.md
+    - "Four Foundational Principles": introduction/four-foundational-principles.md
+    - "Two Kinds of Laws": introduction/two-kinds-of-laws.md
+    - "On Proof and Certainty": introduction/proof-and-certainty.md
+    - "AI as Research Assistant": introduction/ai-research-assistant.md
+    - "Future Development": introduction/future-development.md
+  - "Volume 1: Laws of the Spirit":
+    - volume-1-laws-of-the-spirit/index.md
+    - "Taxonomy Key": volume-1-laws-of-the-spirit/taxonomy-key.md
+    - "Opening: The Miracle Frame": volume-1-laws-of-the-spirit/opening-miracle-frame.md
+    - "1. How to Get Faith": volume-1-laws-of-the-spirit/exploration-01-how-to-get-faith.md
+    - "2. Spirit, Heart, Soul, Body": volume-1-laws-of-the-spirit/exploration-02-spirit-heart-soul-body.md
+    - "3. Faith, Hope, and Love": volume-1-laws-of-the-spirit/exploration-03-faith-hope-love.md
+    - "4. Wisdom, Knowledge, Understanding": volume-1-laws-of-the-spirit/exploration-04-wisdom-knowledge-understanding.md
+    - "5. The Fear of the Lord": volume-1-laws-of-the-spirit/exploration-05-fear-of-the-lord.md
+    - "6. The Obedience Channel": volume-1-laws-of-the-spirit/exploration-06-obedience-channel.md
+    - "7. Spiritual Authority": volume-1-laws-of-the-spirit/exploration-07-spiritual-authority.md
+    - "8. Prayer as Resonance": volume-1-laws-of-the-spirit/exploration-08-prayer-as-resonance.md
+    - "Connecting the Dots": volume-1-laws-of-the-spirit/connecting-the-dots.md
+    - "The AQAL Question": volume-1-laws-of-the-spirit/aqal-question.md
+    - "Spiritual Force, Energy, Power": volume-1-laws-of-the-spirit/spiritual-force-energy-power.md
+    - "The Periodic Table": volume-1-laws-of-the-spirit/periodic-table.md
+    - "A Word to My Kids": volume-1-laws-of-the-spirit/word-to-my-kids.md
+    - "Supplemental: The Three Desires": volume-1-laws-of-the-spirit/supplemental-three-desires.md
+  - "Volume 2: Knowing to Doing":
+    - volume-2-knowing-to-doing/index.md
+    - "Taxonomy Key": volume-2-knowing-to-doing/taxonomy-key.md
+    - "1. The Heart Soil": volume-2-knowing-to-doing/exploration-01-heart-soil.md
+    - "2. Emotional Knots": volume-2-knowing-to-doing/exploration-02-emotional-knots.md
+    - "2A. The Wound and the False Self": volume-2-knowing-to-doing/exploration-02a-wound-false-self.md
+    - "2B. The Adversary's Role": volume-2-knowing-to-doing/exploration-02b-adversary-role.md
+    - "3. Believing a Lie": volume-2-knowing-to-doing/exploration-03-believing-a-lie.md
+    - "4. Confession and Restoration": volume-2-knowing-to-doing/exploration-04-confession-restoration.md
+    - "5. The Four Connects": volume-2-knowing-to-doing/exploration-05-four-connects.md
+    - "6. The Tool Map": volume-2-knowing-to-doing/exploration-06-tool-map.md
+    - "7. Hearing with Understanding": volume-2-knowing-to-doing/exploration-07-hearing-with-understanding.md
+    - "8. The Container": volume-2-knowing-to-doing/exploration-08-the-container.md
+    - "9. Community as Amplifier": volume-2-knowing-to-doing/exploration-09-community-as-amplifier.md
+    - "10. The Training Plan": volume-2-knowing-to-doing/exploration-10-training-plan.md
+    - "Epilogue": volume-2-knowing-to-doing/epilogue.md
+  - "Volume 3: Quantitative Framework":
+    - volume-3-quantitative-framework/index.md
+    - "Taxonomy Key": volume-3-quantitative-framework/taxonomy-key.md
+    - "1. The Case for Quantification": volume-3-quantitative-framework/exploration-01-case-for-quantification.md
+    - "2. Transcendental Field Theory": volume-3-quantitative-framework/exploration-02-transcendental-field-theory.md
+    - "3. Spiritual Force": volume-3-quantitative-framework/exploration-03-spiritual-force.md
+    - "4. Spiritual Distance": volume-3-quantitative-framework/exploration-04-spiritual-distance.md
+    - "5. Spiritual Energy and Power": volume-3-quantitative-framework/exploration-05-spiritual-energy-power.md
+    - "6. Conservation Laws": volume-3-quantitative-framework/exploration-06-conservation-laws.md
+    - "7. Systems Dynamics": volume-3-quantitative-framework/exploration-07-systems-dynamics.md
+    - "8. Miracles as Resonance": volume-3-quantitative-framework/exploration-08-miracles-resonance.md
+    - "9. The Glory Attractor": volume-3-quantitative-framework/exploration-09-glory-attractor.md
+    - "Open Trails": volume-3-quantitative-framework/open-trails.md
+    - "Epilogue": volume-3-quantitative-framework/epilogue.md
+    - "Master Law Index": volume-3-quantitative-framework/master-law-index.md
+  - "Volume 4: Testing Framework":
+    - volume-4-testing-framework/index.md
+    - "1. Why Testing Matters": volume-4-testing-framework/section-1-why-testing-matters.md
+    - "2. Epistemological Foundations": volume-4-testing-framework/section-2-epistemological-foundations.md
+    - "3. Individual Testing Protocol": volume-4-testing-framework/section-3-individual-testing-protocol.md
+  - "Volume 5: References":
+    - volume-5-references/index.md
+    - "Scholarly & Academic Sources": volume-5-references/scholarly-academic-sources.md
+    - "Spiritual Formation Authors": volume-5-references/spiritual-formation-authors.md
+    - "Processes & Ministry Tools": volume-5-references/processes-and-ministry-tools.md
+    - "Scripture Case Studies": volume-5-references/scripture-case-studies.md
+    - "Project Participants": volume-5-references/project-participants.md
+  - Formation Documents:
+    - formation-documents/index.md
+    - "Heart in Formation": formation-documents/heart-in-formation.md
+    - "Soul & Spirit Taxonomies": formation-documents/soul-spirit-taxonomies.md
+    - "Model of Spiritual Formation": formation-documents/model-spiritual-formation.md
+  - Community:
+    - community/index.md
+  - Journals: journals/index.md
+  - Resources:
+    - "Master Law Index": resources/master-law-index.md
+    - "Glossary": resources/glossary.md
+    - "Taxonomy Overview": resources/taxonomy-overview.md

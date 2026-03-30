@@ -82,6 +82,7 @@ nav:
     - "Future Development": introduction/future-development.md
   - "Volume 1: Laws of the Spirit":
     - volume-1-laws-of-the-spirit/index.md
+    - "What I Am Trying to Do": volume-1-laws-of-the-spirit/what-i-am-trying-to-do.md
     - "Taxonomy Key": volume-1-laws-of-the-spirit/taxonomy-key.md
     - "Opening: The Miracle Frame": volume-1-laws-of-the-spirit/opening-miracle-frame.md
     - "1. How to Get Faith": volume-1-laws-of-the-spirit/exploration-01-how-to-get-faith.md
@@ -100,6 +101,7 @@ nav:
     - "Supplemental: The Three Desires": volume-1-laws-of-the-spirit/supplemental-three-desires.md
   - "Volume 2: Knowing to Doing":
     - volume-2-knowing-to-doing/index.md
+    - "Introduction: The Bridge from Knowing to Doing": volume-2-knowing-to-doing/exploration-00-bridge-intro.md
     - "Taxonomy Key": volume-2-knowing-to-doing/taxonomy-key.md
     - "1. The Heart Soil": volume-2-knowing-to-doing/exploration-01-heart-soil.md
     - "2. Emotional Knots": volume-2-knowing-to-doing/exploration-02-emotional-knots.md
@@ -116,6 +118,7 @@ nav:
     - "Epilogue": volume-2-knowing-to-doing/epilogue.md
   - "Volume 3: Quantitative Framework":
     - volume-3-quantitative-framework/index.md
+    - "A Note Before We Begin": volume-3-quantitative-framework/note-before-we-begin.md
     - "Taxonomy Key": volume-3-quantitative-framework/taxonomy-key.md
     - "1. The Case for Quantification": volume-3-quantitative-framework/exploration-01-case-for-quantification.md
     - "2. Transcendental Field Theory": volume-3-quantitative-framework/exploration-02-transcendental-field-theory.md
@@ -136,11 +139,13 @@ nav:
     - "3. Individual Testing Protocol": volume-4-testing-framework/section-3-individual-testing-protocol.md
   - "Volume 5: References":
     - volume-5-references/index.md
+    - "Introduction": volume-5-references/vol5-introduction.md
     - "Scholarly & Academic Sources": volume-5-references/scholarly-academic-sources.md
     - "Spiritual Formation Authors": volume-5-references/spiritual-formation-authors.md
     - "Processes & Ministry Tools": volume-5-references/processes-and-ministry-tools.md
     - "Scripture Case Studies": volume-5-references/scripture-case-studies.md
     - "Project Participants": volume-5-references/project-participants.md
+    - "Reference Material": volume-5-references/reference-material.md
   - Formation Documents:
     - formation-documents/index.md
     - "Heart in Formation": formation-documents/heart-in-formation.md
